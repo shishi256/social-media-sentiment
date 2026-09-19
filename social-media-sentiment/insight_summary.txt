@@ -1,0 +1,11 @@
+Positive: 17.786885
+Neutral: 68.715847
+Negative: 13.497268
+
+The sentiment analysis shows that most of the social media posts in the dataset are neutral. Around 68.72% of the posts were classified as neutral, while 17.79% were positive and 13.50% were negative.
+
+The high percentage of neutral posts suggests that many users are sharing information or opinions without using strongly positive or negative language. Positive posts are more common than negative posts, which indicates that positive reactions are present more frequently than negative reactions in this dataset.
+
+The negative sentiment accounts for 13.50% of the posts. These posts can be useful for identifying complaints, problems, or areas where users had a poor experience. Similarly, positive posts can help identify topics or experiences that users appreciated.
+
+Overall, the dataset is mainly neutral, with a smaller portion of positive and negative opinions. This sentiment distribution gives a simple overview of the general tone of the social media posts.
